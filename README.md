@@ -10,4 +10,4 @@ List of papers for DNA sequence analysis using Machine Learning (ML) methods.
 - [DeepBind](https://github.com/jisraeli/DeepBind). [Paper](https://www.nature.com/articles/nbt.3300).
 - [DeepSEA](http://deepsea.princeton.edu/job/analysis/create/). [Paper](https://www.nature.com/articles/nmeth.3547).
 - [Bassett](https://github.com/davek44/Basset). [Paper](https://pubmed.ncbi.nlm.nih.gov/27197224/).
-- scBassett(https://github.com/calico/scBasset). [Paper](https://www.nature.com/articles/s41592-022-01562-8).
+- [scBassett](https://github.com/calico/scBasset). [Paper](https://www.nature.com/articles/s41592-022-01562-8).
